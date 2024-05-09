@@ -24,6 +24,9 @@ public class WriteFile {
         List<String> data= new ArrayList<>(); 
         
         try{
+            while ( line == bufferedWrite.){   //me voy a traer el String que creè 
+                
+            }
             
         } catch(){
             
